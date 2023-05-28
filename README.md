@@ -9,6 +9,8 @@ HTML and CSS: Working Responsibly and Publishing Projects
 
 * [Figma Project](https://www.figma.com/file/YLL3YYnEeE3uxeW7hbp23r/Alura-Portifolio-HTML-e-CSS?type=design&t=j8226FZN9aOk6KQi-1)
 
+* [Vercel Project](https://alura-project-profile-test.vercel.app/index.html)
+
 * HTML5
 
 * CSS3
