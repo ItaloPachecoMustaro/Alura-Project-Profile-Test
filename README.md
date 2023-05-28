@@ -13,6 +13,6 @@ HTML and CSS: Working Responsibly and Publishing Projects
 
 * HTML5
 
-* CSS3
+* CSS
 
 * Google Fonts
